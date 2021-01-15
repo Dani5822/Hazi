@@ -1,0 +1,11 @@
+body {background-color: #00FF11;}
+h2 {color: yellow;}
+.kep {position: absolute; right: 50px;}
+.kistabla { text-indent: 150px;}
+.oszlop1 { position: absolute; left: 200px; top: 50px;}
+.sarga { background-color: #E7FF00; position: absolute; left: 200px;}
+.kep {max-width: 250px;}
+hr {border-style: inset; color: yellow;}
+.pulik {max-width: 100px; position: absolute; top: 150px; left: 0px;}
+p {max-width: 800px; right: 200px;}
+.jobbkep {position: absolute; right: 450px; max-width: 100px;}
